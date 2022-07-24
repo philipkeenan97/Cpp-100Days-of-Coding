@@ -26,4 +26,6 @@ starting figuring out solutions for myself soon.
 
 ## Day 2/100
 ### Date: 24/07/2022
-- 
+- Worked on an issue I am having with running the C++ compiler in subfolders of the workspace in VScode.  
+I have not yet found a solution, the error is that the compiler is looking for a .cpp file in the main folder rather than the file being used in the subfolder.
+- Went through a few Python code wars tasks to keep my problem solving and coding skills active.
