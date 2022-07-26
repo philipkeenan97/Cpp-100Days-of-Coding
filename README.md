@@ -35,3 +35,4 @@ I have not yet found a solution, the error is that the compiler is looking for a
 - Learned about functions and statements.
 - Realised the difference between defining and calling functions in C++ and Python, functions must be defined outside main function before being called.
 - Format of parameters used in function definition must be defined.
+- Began learning about Input/Outputs.
