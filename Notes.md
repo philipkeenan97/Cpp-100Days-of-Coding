@@ -19,3 +19,9 @@
 - I learned that you have to define a function before calling it in the main function that is run. I knew this from Python, however, the set up is slightlu=y different.
 - Functions have to be defined with int (for now all I know), then named, then each parameter must be defined by format (int/string/etc) and then named.
     - Format: define Name (define para) {Content/Function code }
+#### Input Output
+- std::cout is one way of printing outputs from code to terminal.
+    - std::cout : Printing data to the console (terminal).
+    - std::cin : Reading data from the terminal. 
+    - std::cerr : Printing errors to the console.
+    - std::clog : Printing log messages to the console.
