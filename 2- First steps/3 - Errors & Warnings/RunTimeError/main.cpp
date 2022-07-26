@@ -2,9 +2,10 @@
 
 int main()
 {
-    std::cout << "Hello World1" << std::endl;
+    std::cout << "Hello World" << std::endl;
 
     //Run time error
-    7/0;
+     int value = 7/0;
+     std::cout << "value:" << value << std::endl;
     return 0;
 }

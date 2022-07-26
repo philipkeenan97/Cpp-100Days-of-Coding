@@ -7,7 +7,7 @@
 			"command": "C:\\mingw64\\bin\\g++.exe",
 			"args": [
 				"-g",
-				"-std=c++20",
+				"-std=c++23",
 				"${workspaceFolder}\\*.cpp",
 				"-o",
 				"${fileDirname}\\rooster.exe"
@@ -27,7 +27,7 @@
 			"command": "C:\\mingw64\\bin\\clang++.exe",
 			"args": [
 				"-g",
-				"-std=c++20",
+				"-std=c++23",
 				"${workspaceFolder}\\*.cpp",
 				"-o",
 				"${fileDirname}\\rooster.exe"
