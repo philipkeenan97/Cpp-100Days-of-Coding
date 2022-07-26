@@ -29,3 +29,9 @@ starting figuring out solutions for myself soon.
 - Worked on an issue I am having with running the C++ compiler in subfolders of the workspace in VScode.  
 I have not yet found a solution, the error is that the compiler is looking for a .cpp file in the main folder rather than the file being used in the subfolder.
 - Went through a few Python code wars tasks to keep my problem solving and coding skills active.
+
+## Day 3/100
+### Date: 26/07/2022
+- Learned about functions and statements.
+- Realised the difference between defining and calling functions in C++ and Python, functions must be defined outside main function before being called.
+- Format of parameters used in function definition must be defined.
