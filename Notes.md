@@ -25,3 +25,16 @@
     - std::cin : Reading data from the terminal. 
     - std::cerr : Printing errors to the console.
     - std::clog : Printing log messages to the console.
+- "<<" and ">>" are to indicate direction data is flowing:
+    - "cout << variable" the data from the variable is flowing into cout to be printed.
+    - "cin >> variable" the data from cin is flowing into variable to be stored in the program.
+- To read in data with spaces, use std::getline(std::cin,full_variable);
+
+#### Execution & Memory model
+- Program is compiled into a binary executable that the computer then runs.
+- Binary is loaded into RAM when run, the CPU then runs it line by line and alocates space in the RAM for variables as necessary.
+- The CPU prints output statements from RAM to terminal as it gets to them.
+- When running functions, it jumps to another location in RAM, but stores the location of the last line of the code that it ran so that it can return. It does this in CPU memory.
+- In the new location, it loads in any parameters needed to run the function, and then completes it.
+- Useful to know in order to optimise code.
+- Rather than jumping to new locations of memeory to preform a simple task, complete it in the line of code.

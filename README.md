@@ -36,3 +36,8 @@ I have not yet found a solution, the error is that the compiler is looking for a
 - Realised the difference between defining and calling functions in C++ and Python, functions must be defined outside main function before being called.
 - Format of parameters used in function definition must be defined.
 - Began learning about Input/Outputs.
+
+## Day 4/100
+### Date: 28/07/2022
+- Continued with Input/Output section.
+- Learned how the execution and memory storage of C++ programs work.
