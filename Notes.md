@@ -38,3 +38,52 @@
 - In the new location, it loads in any parameters needed to run the function, and then completes it.
 - Useful to know in order to optimise code.
 - Rather than jumping to new locations of memeory to preform a simple task, complete it in the line of code.
+
+#### C++ standard library vs Core Modules Comparison
+- Core module:
+    1. Basic building block.
+    2. Makes up the language.
+    3. Basic rules that must be met.
+- Standard library:
+    1. Set of highly specialised components that can be used.
+- STL:
+    1. Collection of container types.
+    2. Part of Standard library.
+
+#### Variable & Data Types
+1. int
+    - Whole numbers.
+2. double
+    - all numbers (decimal points)
+3. float
+    - all numbers (decimal points)
+4. char
+    - characters such as a string
+5. bool
+    - True or False
+6. void
+    - Typeless type
+7. auto
+    - keyword to deduce other types.
+
+- Executable file is ones & zeros, each 1 or 0 is a byte, and a collection of 8 ones or zeros is a bit.
+- Binary, Octal & Hexadecimal are examples of number systems.
+
+#### Number systems
+- Binary is base 2. Two possible numbers, 1 or 0.
+- 111 in binary is 7.
+    - (1x2^2)+(1x2^1)+(1x2^0) = 7
+- Hexadecimal:
+    - Instead of going from 0 to 16, it goes 1,2,3,4,5,6,7,8,9,A,B,C,D,E,F.
+    - 0x infront of number means it is hexadecimal.
+    Break binary into groups of 4 bytes.
+- Padding:
+    - Adding missing bytes when splitting binary into specific bits.
+- Octal:
+    - Numbers from 0 - 7.
+    - Split binary into groups of 3.
+- Numbers in C++:
+    - int number1 = 15; //Decimal
+    - int number2 = 017; //Octal
+    - int number3 = 0x0f; //Hexadecimal
+    - int number4 = 0b00001111; //Binary

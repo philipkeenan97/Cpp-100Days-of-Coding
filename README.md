@@ -41,3 +41,12 @@ I have not yet found a solution, the error is that the compiler is looking for a
 ### Date: 28/07/2022
 - Continued with Input/Output section.
 - Learned how the execution and memory storage of C++ programs work.
+
+## Day 5/100
+### Date: 03/08/2022
+- Quickly ran though core, standard library and STL of C++.
+- Learned about variables & data types.
+  - Different types of vairable.
+  - 8 byte equals 1 bit.
+- Learned about number system:
+  - Binary, octal & hexadecimal.
