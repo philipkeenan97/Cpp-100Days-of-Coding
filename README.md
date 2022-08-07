@@ -50,3 +50,9 @@ I have not yet found a solution, the error is that the compiler is looking for a
   - 8 byte equals 1 bit.
 - Learned about number system:
   - Binary, octal & hexadecimal.
+
+## Day 6/100
+### Date: 07/08/2022
+- 4 Kata training pieces of code.
+- Mainly on "fundamentals" with Python.
+- I don't feel like I have enough knowledge of C++ to complete katas in this language yet.
